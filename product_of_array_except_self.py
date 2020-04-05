@@ -1,5 +1,7 @@
 # 238. Product of Array Except Self
 
+from typing import List
+
 
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
