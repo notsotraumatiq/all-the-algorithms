@@ -26,4 +26,3 @@ class Solution:
 
         self.maxself(root.left, summer)
         self.maxself(root.right, summer)
-mm
