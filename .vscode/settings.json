@@ -1,9 +1,0 @@
-{
-  "files.autoSave": "afterDelay",
-  "editor.formatOnSave": true,
-  "python.linting.pylintArgs": ["--errors-only"],
-  "[python]": {
-    "editor.defaultFormatter": "ms-python.autopep8"
-  },
-  "python.formatting.provider": "none"
-}
